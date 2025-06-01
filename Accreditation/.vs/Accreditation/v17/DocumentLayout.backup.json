@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\useroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\useroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\accreditation\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\accreditation\\useroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\useroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\organizationadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\organizationadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\studentorgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\studentorgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\accreditation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\accreditation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\studentorgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\studentorgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\organizationadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\organizationadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\acclogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\acclogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\accreditation\\organizationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\organizationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\accreditation\\acclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\acclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\accreditation\\accdatadashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\accdatadashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\accreditation\\memberlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\memberlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\accreditation\\passwordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\passwordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\passwordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\passwordreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\accreditation\\resetprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\resetprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\resetprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\resetprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\accreditation\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|c:\\users\\user\\source\\repos\\edp-accreditation\\accreditation\\accreditation\\organizationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\organizationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\accreditation\\createuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\createuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\accreditation\\accregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\accregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\accreditation\\accregsuccessful.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47B246D2-F807-447C-85C2-0FFBFA93538F}|Accreditation\\Accreditation.csproj|solutionrelative:accreditation\\accregsuccessful.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\DataManager.cs",
+              "RelativeDocumentMoniker": "Accreditation\\DataManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\DataManager.cs",
+              "RelativeToolTip": "Accreditation\\DataManager.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAswCkBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:06:15.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Accreditation\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "Accreditation\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:56:41.183Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserOperations.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\UserOperations.cs",
+              "RelativeDocumentMoniker": "Accreditation\\UserOperations.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\UserOperations.cs [Design]",
+              "RelativeToolTip": "Accreditation\\UserOperations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:30:41.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserOperations.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\UserOperations.cs",
+              "RelativeDocumentMoniker": "Accreditation\\UserOperations.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\UserOperations.cs",
+              "RelativeToolTip": "Accreditation\\UserOperations.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwIgAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:03:36.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentOrgs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\StudentOrgs.cs",
+              "RelativeDocumentMoniker": "Accreditation\\StudentOrgs.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\StudentOrgs.cs [Design]",
+              "RelativeToolTip": "Accreditation\\StudentOrgs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:21:04.016Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrganizationAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\OrganizationAdd.cs",
+              "RelativeDocumentMoniker": "Accreditation\\OrganizationAdd.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\OrganizationAdd.cs [Design]",
+              "RelativeToolTip": "Accreditation\\OrganizationAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:52:41.898Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrganizationAdd.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\OrganizationAdd.cs",
+              "RelativeDocumentMoniker": "Accreditation\\OrganizationAdd.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\OrganizationAdd.cs",
+              "RelativeToolTip": "Accreditation\\OrganizationAdd.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:58:51.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Accreditation.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Source\\Repos\\edp-accreditation\\Accreditation\\Accreditation\\Accreditation.csproj",
+              "RelativeDocumentMoniker": "Accreditation\\Accreditation.csproj",
+              "ToolTip": "C:\\Users\\user\\Source\\Repos\\edp-accreditation\\Accreditation\\Accreditation\\Accreditation.csproj",
+              "RelativeToolTip": "Accreditation\\Accreditation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T04:48:31.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Accreditation\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AdminDashboard.cs",
+              "RelativeToolTip": "Accreditation\\AdminDashboard.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwCsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:09:06.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentOrgs.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\StudentOrgs.cs",
+              "RelativeDocumentMoniker": "Accreditation\\StudentOrgs.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\StudentOrgs.cs",
+              "RelativeToolTip": "Accreditation\\StudentOrgs.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:44:28.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrganizationList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\OrganizationList.cs",
+              "RelativeDocumentMoniker": "Accreditation\\OrganizationList.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\OrganizationList.cs [Design]",
+              "RelativeToolTip": "Accreditation\\OrganizationList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:41:50.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AccLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Accreditation\\AccLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AccLogin.Designer.cs",
+              "RelativeToolTip": "Accreditation\\AccLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:54:58.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AccLogin.cs",
+              "RelativeDocumentMoniker": "Accreditation\\AccLogin.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AccLogin.cs [Design]",
+              "RelativeToolTip": "Accreditation\\AccLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:07:57.364Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccDataDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AccDataDashboard.cs",
+              "RelativeDocumentMoniker": "Accreditation\\AccDataDashboard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AccDataDashboard.cs [Design]",
+              "RelativeToolTip": "Accreditation\\AccDataDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:04:20.914Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MemberList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\MemberList.cs",
+              "RelativeDocumentMoniker": "Accreditation\\MemberList.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\MemberList.cs [Design]",
+              "RelativeToolTip": "Accreditation\\MemberList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:34:48.521Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PasswordReset.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\PasswordReset.cs",
+              "RelativeDocumentMoniker": "Accreditation\\PasswordReset.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\PasswordReset.cs [Design]",
+              "RelativeToolTip": "Accreditation\\PasswordReset.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:12:40.229Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PasswordReset.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\PasswordReset.cs",
+              "RelativeDocumentMoniker": "Accreditation\\PasswordReset.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\PasswordReset.cs",
+              "RelativeToolTip": "Accreditation\\PasswordReset.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:13:22.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\Program.cs",
+              "RelativeDocumentMoniker": "Accreditation\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\Program.cs",
+              "RelativeToolTip": "Accreditation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:45:02.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResetPrompt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\ResetPrompt.cs",
+              "RelativeDocumentMoniker": "Accreditation\\ResetPrompt.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\ResetPrompt.cs [Design]",
+              "RelativeToolTip": "Accreditation\\ResetPrompt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:00:06.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ResetPrompt.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\ResetPrompt.cs",
+              "RelativeDocumentMoniker": "Accreditation\\ResetPrompt.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\ResetPrompt.cs",
+              "RelativeToolTip": "Accreditation\\ResetPrompt.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAD4vy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:04:37.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrganizationList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\OrganizationList.cs",
+              "RelativeDocumentMoniker": "Accreditation\\OrganizationList.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\OrganizationList.cs",
+              "RelativeToolTip": "Accreditation\\OrganizationList.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAMwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:43:29.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ForgotPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "Accreditation\\ForgotPassword.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\ForgotPassword.cs [Design]",
+              "RelativeToolTip": "Accreditation\\ForgotPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:40:37.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateUserAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\CreateUserAccount.cs",
+              "RelativeDocumentMoniker": "Accreditation\\CreateUserAccount.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\CreateUserAccount.cs [Design]",
+              "RelativeToolTip": "Accreditation\\CreateUserAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:41:15.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccRegSuccessful.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AccRegSuccessful.cs",
+              "RelativeDocumentMoniker": "Accreditation\\AccRegSuccessful.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AccRegSuccessful.cs [Design]",
+              "RelativeToolTip": "Accreditation\\AccRegSuccessful.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:05:11.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccRegistry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AccRegistry.cs",
+              "RelativeDocumentMoniker": "Accreditation\\AccRegistry.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\edp-accreditation\\Accreditation\\Accreditation\\AccRegistry.cs [Design]",
+              "RelativeToolTip": "Accreditation\\AccRegistry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:04:53.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

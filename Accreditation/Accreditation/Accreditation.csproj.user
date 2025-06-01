@@ -1,19 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="Form1.cs">
+    <Compile Update="AccLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form2.cs">
+    <Compile Update="AccDataDashboard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form3.cs">
+    <Compile Update="AccRegistry.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form4.cs">
+    <Compile Update="AccRegSuccessful.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form5.cs">
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateUserAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MemberList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrganizationAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrganizationList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PasswordReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResetPrompt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentOrgs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserOperations.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
